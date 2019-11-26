@@ -1,7 +1,1 @@
-a: 
-fsd
-af
-f
-hello
-chentao
-happy new year
+abandon: https://www.zhihu.com/question/266147523/answer/307704848
