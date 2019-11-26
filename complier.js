@@ -137,7 +137,7 @@ function genMarkdown (ast) {
   
   ast.forEach((part, i) => {
     if (part.length === 0) return
-    code(`### Part **${i + 1}** of **${part.length}** words`)
+    code(`#### Part **${i + 1}** of **${part.length}** words`)
     code(`Last modified time: \`${part.mtime}\``)
 
     part.forEach((wordInfo, i) => {
@@ -154,9 +154,9 @@ function genSingleItem ({ word, link }, idx) {
   if (!word) return ''
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
-  let baseContent = `+ [\`${word}\`](${googleLink}) --- [voice](${audioLink})`
+  let baseContent = `+ [\`${word}\`](${googleLink}) --- [v](${audioLink})`
   if (link) {
-    baseContent += ` --- [link](${link})`
+    baseContent += ` --- [l](${link})`
   }
   return baseContent
 }
