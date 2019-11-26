@@ -7,7 +7,7 @@ const createLink = text => `https://translate.google.cn/#view=home&op=translate&
 const createAudioLink = text => {
   const tk = createTK(text)
   const total = text.length
-  return `https://translate.google.cn/translate_tts?ie=UTF-8&q=${encodeURIComponent(text)}&tl=en&total=1&idx=0&textlen=${total}&tk=${tk}&client=webapp&prev=input`
+  return `https://translate.google.cn/translate_tts?ie=UTF-8&q=${encodeURIComponent(text)}&tl=en&total=1&idx=0&textlen=${total}&tk=${tk}&client=webapp`
 }
 
 // 文件所在的地方
