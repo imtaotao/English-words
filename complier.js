@@ -64,7 +64,7 @@ function createAst (mtime, source) {
     }
     return {
       link: null,
-      word: line.replace(/:/g, ''),
+      word: line.replace(/:/g, '').trim(),
     }
   })
   result.mtime = convertTime(mtime)
@@ -109,6 +109,7 @@ function genMarkdown (ast) {
 }
 
 function genSingleItem ({ word, link }, idx) {
+  if (!word) return ''
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
   let baseContent = `+ [\`${word}\`](${googleLink}) --- [voice](${audioLink})`
