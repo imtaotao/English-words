@@ -4,7 +4,10 @@ const { exec } = require('child_process')
 
 // 谷歌翻译的接口
 const createLink = text => `https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=${text}`
-const createAudioLink = text => `https://translate.google.cn/translate_tts?ie=UTF-8&q=${text}&tl=en&total=1&idx=0&textlen=5&tk=473558.103757&client=webapp&prev=input`
+const createAudioLink = text => {
+  const total = text.length
+  return `https://translate.google.cn/translate_tts?ie=UTF-8&q=${text}&tl=en&total=${total}&idx=0&textlen=${total}&tk=473558.103757&client=webapp&prev=input`
+}
 
 // 文件所在的地方
 const filesPath = path.resolve(__dirname, './text')
@@ -48,6 +51,7 @@ function getTextFiles (pt) {
 function createAst (mtime, source) {
   source = source.trim()
   if (!source) return []
+
   const lines = source.split('\n')
   const result = lines.map(line => {
     line = line.trim()
@@ -59,8 +63,8 @@ function createAst (mtime, source) {
       }
     }
     return {
-      word: line,
       link: null,
+      word: line.replace(/:/g, ''),
     }
   })
   result.mtime = convertTime(mtime)
