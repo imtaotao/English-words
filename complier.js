@@ -3,7 +3,7 @@ const path = require('path')
 const { exec } = require('child_process')
 
 // 谷歌翻译的接口
-const createLink = text => `https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=${text}`
+const createLink = text => `https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=${encodeURIComponent(text)}`
 const createAudioLink = text => {
   const tk = createTK(text)
   const total = text.length
