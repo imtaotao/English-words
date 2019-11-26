@@ -1,3 +1,9 @@
 abandon: https://www.zhihu.com/question/266147523/answer/307704848
+
 cold: https://music.163.com/#/song?id=489199838&userid=517134882
+
 I dunno: http://www.sohu.com/a/279582670_298579
+
+placeholder: https://developer.mozilla.org/zh-CN/docs/Web/CSS/::placeholder
+
+cross
