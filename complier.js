@@ -94,20 +94,25 @@ function getTextFiles (pt) {
 function createAst (mtime, source) {
   source = source.trim()
   if (!source) return []
-
+  
+  const result = []
   const lines = source.split('\n')
-  const result = lines.map(line => {
+  lines.forEach(line => {
     line = line.trim()
     const match = /([^:]+):(.+)/g.exec(line)
     if (match) {
-      return {
+      result.push({
         word: match[1].trim(),
         link: match[2].trim(),
+      })
+    } else {
+      const word = line.replace(/:/g, '').trim()
+      if (word) {
+        result.push({
+          word,
+          link: null,
+        })
       }
-    }
-    return {
-      link: null,
-      word: line.replace(/:/g, '').trim(),
     }
   })
   result.mtime = convertTime(mtime)
