@@ -2,6 +2,8 @@ const fs = require('fs')
 const path = require('path')
 const { exec } = require('child_process')
 
+const PROTOCOL = /\w+:\/\/?/
+
 // 谷歌翻译的接口
 const createLink = text => `https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=${encodeURIComponent(text)}`
 const createAudioLink = text => {
@@ -57,7 +59,6 @@ function RL (a, b) {
 
 // ------------- 编译部分 ---------------------------------
 async function main () {
-  console.log('chentao')
   const files = getTextFiles(filesPath)
   // 最新修改的放最上面
   files.sort((a, b) => b.mtime - a.mtime)
@@ -141,7 +142,10 @@ function genMarkdown (ast) {
     code(`Last modified time: \`${part.mtime}\``)
 
     part.forEach((wordInfo, i) => {
-      code(genSingleItem(wordInfo, i))
+      const content = genSingleItem(wordInfo, i)
+      if (content) {
+        code(content)
+      }
     })
 
     // 换行
@@ -151,12 +155,14 @@ function genMarkdown (ast) {
 }
 
 function genSingleItem ({ word, link }, idx) {
-  if (!word) return ''
+  if (!word) return
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
   let baseContent = `+ [\`${word}\`](${audioLink}) --- [goog](${googleLink})`
   if (link) {
-    baseContent += ` --- [link](${link})`
+    baseContent += PROTOCOL.test(link)
+      ? ` --- [link](${link})`
+      : ` --- ${link}`
   }
   return baseContent
 }
