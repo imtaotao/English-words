@@ -5,8 +5,9 @@ const { exec } = require('child_process')
 // 谷歌翻译的接口
 const createLink = text => `https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=${text}`
 const createAudioLink = text => {
+  const tk = createTK(text)
   const total = text.length
-  return `https://translate.google.cn/translate_tts?ie=UTF-8&q=${text}&tl=en&total=${total}&idx=0&textlen=${total}&tk=473558.103757&client=webapp&prev=input`
+  return `https://translate.google.cn/translate_tts?ie=UTF-8&q=${text}&tl=en&total=${total}&idx=0&textlen=${total}&tk=${tk}&client=webapp&prev=input`
 }
 
 // 文件所在的地方
@@ -14,8 +15,49 @@ const filesPath = path.resolve(__dirname, './text')
 const historyPath = path.resolve(__dirname, './history') 
 const destPath = path.resolve(__dirname, './README.md')
 
+// ------------- 生成 tk 值 ---------------------------------
+// 找来的，不是很清楚具体的算法
+function createTK (a) {
+  a = a.trim()
+  const b = 406644
+  const b1 = 3293161072
+  const jd = "."
+  const $b = "+-a^+6"
+  const Zb = "+-3^+b+-f"
+
+  for (var e = [], f = 0, g = 0; g < a.length; g++) {
+    let m = a.charCodeAt(g)
+    128 > m ? e[f++] = m : (2048 > m ? e[f++] = m >> 6 | 192 : (55296 == (m & 64512) && g + 1 < a.length && 56320 == (a.charCodeAt(g + 1) & 64512) ? (m = 65536 + ((m & 1023) << 10) + (a.charCodeAt(++g) & 1023),
+    e[f++] = m >> 18 | 240,
+    e[f++] = m >> 12 & 63 | 128) : e[f++] = m >> 12 | 224,
+    e[f++] = m >> 6 & 63 | 128),
+    e[f++] = m & 63 | 128)
+  }
+  a = b;
+  for (f = 0; f < e.length; f++) a += e[f],
+  a = RL(a, $b);
+  a = RL(a, Zb);
+  a ^= b1 || 0;
+  0 > a && (a = (a & 2147483647) + 2147483648);
+  a %= 1E6;
+  return a.toString() + jd + (a ^ b)
+}
+
+function RL (a, b) {
+  const t = "a";
+  const Yb = "+";
+  for (let c = 0; c < b.length - 2; c += 3) {
+    var d = b.charAt(c + 2),
+    d = d >= t ? d.charCodeAt(0) - 87 : Number(d),
+    d = b.charAt(c + 1) == Yb ? a >>> d: a << d;
+    a = b.charAt(c) == Yb ? a + d & 4294967295 : a ^ d
+  }
+  return a
+}
+
 // ------------- 编译部分 ---------------------------------
 async function main () {
+  console.log('chentao')
   const files = getTextFiles(filesPath)
   // 最新修改的放最上面
   files.sort((a, b) => b.mtime - a.mtime)
@@ -137,7 +179,7 @@ async function genFile (code) {
       readable.on('end', resolve)
     })
   }
-  const getLegalPath = (array, name, i = 0) => {
+  const getLegalPath = (array, name, i = 1) => {
     const fixname = `${i}.${name}`
     return array.includes(fixname)
       ? getLegalPath(array, name, ++i)
@@ -192,6 +234,13 @@ if (argv.includes('-c')) {
   main().then(clg)
 } else if (argv.includes('-m')) {
   submit().then(clg)
+} else if (argv.includes('-w')) {
+  let i = 0
+  fs.watch(filesPath, async () => {
+    console.clear()
+    await main()
+    console.log('Rebuild: ' + ++i)
+  })
 } else {
   main().then(submit).then(clg)
 }
