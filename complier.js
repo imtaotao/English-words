@@ -156,7 +156,7 @@ function genSingleItem ({ word, link }, idx) {
   const audioLink = createAudioLink(word)
   let baseContent = `+ [\`${word}\`](${audioLink}) --- [goog](${googleLink})`
   if (link) {
-    baseContent += ` --- [l](${link})`
+    baseContent += ` --- [link](${link})`
   }
   return baseContent
 }
