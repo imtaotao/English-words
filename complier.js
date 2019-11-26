@@ -107,9 +107,9 @@ function genMarkdown (ast) {
 function genSingleItem ({ word, link }, idx) {
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
-  let baseContent = `+ [${word}](${googleLink})    [朗读](${audioLink})`
+  let baseContent = `+ [\`${word}\`](${googleLink}) --- [朗读](${audioLink})`
   if (link) {
-    baseContent += ` --- [\`相关链接\`](${link})`
+    baseContent += ` --- [相关链接](${link})`
   }
   return baseContent
 }
