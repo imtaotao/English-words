@@ -106,7 +106,7 @@ function genMarkdown (ast) {
 function genSingleItem ({ word, link }, idx) {
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
-  let baseContent = `${idx + 1}. [${word}](${googleLink})`
+  let baseContent = `+ [${word}](${googleLink})    [朗读](${audioLink})`
   if (link) {
     baseContent += ` --- [\`相关链接\`](${link})`
   }
@@ -180,6 +180,12 @@ async function submit () {
 }
 
 // ------------- 运行 ---------------------------------
-main().then(submit).then(() => {
-  console.log('\n√ Complete\n')
-})
+const argv = process.argv
+const clg = () => console.log('\n√ Complete\n')
+if (argv.includes('-c')) {
+  main().then(clg)
+} else if (argv.includes('-m')) {
+  submit().then(clg)
+} else {
+  main().then(submit).then(clg)
+}
