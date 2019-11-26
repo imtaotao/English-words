@@ -92,6 +92,7 @@ function genMarkdown (ast) {
   ast.forEach((part, i) => {
     if (part.length === 0) return
     code(`### 第 **${i + 1}** 部分，总共 **${part.length}** 个单词`)
+    code(`最后修改时间为 ${part.mtime}`)
 
     part.forEach((wordInfo, i) => {
       code(genSingleItem(wordInfo, i))
