@@ -87,12 +87,12 @@ function convertTime (date) {
 function genMarkdown (ast) {
   const day = ast.length
   const len = ast.reduce((total, val) => total + val.length, 0)
-  const code = joinString(`## 总共 **${day}** 天，包含 **${len}** 个单词`)
+  const code = joinString(`## **${day}** days in total，**${len}** words`)
   
   ast.forEach((part, i) => {
     if (part.length === 0) return
-    code(`### 第 **${i + 1}** 部分，总共 **${part.length}** 个单词`)
-    code(`最后修改时间为 ${part.mtime}`)
+    code(`### Part **${i + 1}** of **${part.length}** words`)
+    code(`最后修改时间为 \`${part.mtime}\``)
 
     part.forEach((wordInfo, i) => {
       code(genSingleItem(wordInfo, i))
@@ -107,9 +107,9 @@ function genMarkdown (ast) {
 function genSingleItem ({ word, link }, idx) {
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
-  let baseContent = `+ [\`${word}\`](${googleLink}) --- [朗读](${audioLink})`
+  let baseContent = `+ [\`${word}\`](${googleLink}) --- [Voice](${audioLink})`
   if (link) {
-    baseContent += ` --- [相关链接](${link})`
+    baseContent += ` --- [Link](${link})`
   }
   return baseContent
 }
