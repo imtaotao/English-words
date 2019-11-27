@@ -1,11 +1,3 @@
-identity
-proof
-gesture
-shock
-shores
-shoes
-enemy
-
 rud: 词根：原始，粗野
 a rude shock: 很突然的震惊
 rude house: 不是粗鲁的房子，是简陋的房子（这种小单词的含义非常多）
@@ -37,3 +29,21 @@ basin
 bowl, salad bowl
 salad day: 年轻，还没有太多社会经历的时候（少不更事）
 salify: 比如化学上使xx结晶
+
+identity
+proof
+gesture
+shock
+shores
+shoes
+enemy
+suspense
+favor
+crash
+adorable: 皮卡丘那部电影，有个女的说皮卡丘 adorable
+darling
+scorching hot
+gym
+stadium: gym 还有健身房的意思
+fountain
+during: 持续中，在 redux 的 dispatch 中有这个警告信息
