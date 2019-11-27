@@ -17,3 +17,6 @@ fundamental vs rudiment: https://ell.stackexchange.com/questions/163503/do-rudim
 rural
 ruraltive
 ruralize
+rustic
+rustic charm: 乡村魅力
+cottage: 农舍
