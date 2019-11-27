@@ -4,3 +4,9 @@ gesture
 salt
 shock
 a rude shock: 很突然的震惊
+rude house: 不是粗鲁的房子，是简陋的房子（这种小单词的含义非常多）
+in rude health: 先天的健壮，就是很健壮的意思
+rudiment: 基础的，就是很原始的阶段
+rudiments: 比如说产品要做需求，先做一个小样看看，做出来的就叫 `rudiments`
+fundamental: 这个也是基本的，根本的（四级里面记过）
+fundamental vs rudiment: https://wikidiff.com/fundamental/rudiment
