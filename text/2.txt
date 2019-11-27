@@ -1,12 +1,12 @@
 identity
 proof
 gesture
-salt
 shock
 shores
 shoes
 enemy
 
+rud: 词根：原始，粗野
 a rude shock: 很突然的震惊
 rude house: 不是粗鲁的房子，是简陋的房子（这种小单词的含义非常多）
 in rude health: 先天的健壮，就是很健壮的意思
@@ -14,9 +14,26 @@ rudiment: 基础的，就是很原始的阶段
 rudiments: 比如说产品要做需求，先做一个小样看看，做出来的就叫 `rudiments`
 fundamental: 这个也是基本的，根本的（四级里面记过）
 fundamental vs rudiment: https://ell.stackexchange.com/questions/163503/do-rudiment-fundamental-and-foundation-have-any-shades-of-meaning-when-t
+
+rur: 词根：农村
 rural
 ruraltive
 ruralize
-rustic
-rustic charm: 乡村魅力
-cottage: 农舍
+rustic: 和 rural 可以呼唤，但是这个单词作名词带点贬义，比如：`农村人` 和 `乡下人（乡巴佬）`
+rustic charm
+cottage
+bucolic: 如画般的乡村，一般文学作品用，和上面那些比较高级
+rustic fence: 用粗木条搭成的 `栅栏`
+
+sal: 词：盐
+salt
+salary: 古代（不是我们这边）盐很贵，做事奖励就是奖励盐，于是到现在演变成功工资了，也就与盐没有关系了
+annual
+annual salary
+salaried 
+a salaried holiday
+salad
+basin
+bowl, salad bowl
+salad day: 年轻，还没有太多社会经历的时候（少不更事）
+salify: 比如化学上使xx结晶
