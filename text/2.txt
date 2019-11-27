@@ -11,7 +11,7 @@ rur: 词根：农村
 rural
 ruraltive
 ruralize
-rustic: 和 rural 可以呼唤，但是这个单词作名词带点贬义，比如：`农村人` 和 `乡下人（乡巴佬）`
+rustic: 和 rural 可以互换，但是这个单词作名词带点贬义，比如：`农村人` 和 `乡下人（乡巴佬）`
 rustic charm
 cottage
 bucolic: 如画般的乡村，一般文学作品用，和上面那些比较高级
@@ -19,7 +19,7 @@ rustic fence: 用粗木条搭成的 `栅栏`
 
 sal: 词：盐
 salt
-salary: 古代（不是我们这边）盐很贵，做事奖励就是奖励盐，于是到现在演变成功工资了，也就与盐没有关系了
+salary: 古代盐很贵，做事奖励就是奖励盐，于是到现在演变成功工资了，也就与盐没有关系了
 annual
 annual salary
 salaried 
