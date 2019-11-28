@@ -1,0 +1,8 @@
+whether: 我用过多次，有时候看见还是会忘记，是的，我是脑残
+scenarios
+presentation
+realized: 嗯~眼熟而已
+purpose: 眼熟眼熟（只眼熟一个意思，其实还有好多其他的意思）
+easier
+abstract: 我记得住，放在这里混个眼熟而已
+reuse: 一脸懵逼，翻译后发现`re` + `use` ... 我 tm ~~
