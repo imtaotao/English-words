@@ -17,7 +17,7 @@ cottage
 bucolic: 如画般的乡村，一般文学作品用，和上面那些比较高级
 rustic fence: 用粗木条搭成的 `栅栏`
 
-sal: 词：盐
+sal: 词根：盐
 salt
 salary: 古代盐很贵，做事奖励就是奖励盐，于是到现在演变成功工资了，也就与盐没有关系了
 annual
