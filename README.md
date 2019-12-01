@@ -1,7 +1,18 @@
 # 记单词一定要记词性
-## **4** days in total，**86** words
+## **5** days in total，**95** words
 
-#### Part **1** of **22** words
+#### Part **1** of **9** words
+Last modified time: `2019-12-1`
++ [`associate`](http://translate.google.cn/translate_tts?ie=UTF-8&q=associate&tl=en&total=1&idx=0&textlen=9&tk=476003.96023&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=associate)
++ [`vice`](http://translate.google.cn/translate_tts?ie=UTF-8&q=vice&tl=en&total=1&idx=0&textlen=4&tk=193646.311322&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=vice)
++ [`service`](http://translate.google.cn/translate_tts?ie=UTF-8&q=service&tl=en&total=1&idx=0&textlen=7&tk=923251.532999&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=service)
++ [`wise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=wise&tl=en&total=1&idx=0&textlen=4&tk=96914.478950&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=wise)
++ [`otherwise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=otherwise&tl=en&total=1&idx=0&textlen=9&tk=886498.766614&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=otherwise)
++ [`likewise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=likewise&tl=en&total=1&idx=0&textlen=8&tk=130782.510634&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=likewise)
++ [`attach`](http://translate.google.cn/translate_tts?ie=UTF-8&q=attach&tl=en&total=1&idx=0&textlen=6&tk=723796.868128&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=attach) --- [link](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Component.html)
+
+
+#### Part **2** of **22** words
 Last modified time: `2019-12-1`
 + [`bitten`](http://translate.google.cn/translate_tts?ie=UTF-8&q=bitten&tl=en&total=1&idx=0&textlen=6&tk=2943.409355&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=bitten)
 + [`abtain`](http://translate.google.cn/translate_tts?ie=UTF-8&q=abtain&tl=en&total=1&idx=0&textlen=6&tk=560853.965281&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=abtain) --- 性对于 `get` 正式一点
@@ -27,7 +38,7 @@ Last modified time: `2019-12-1`
 + [`youngsters`](http://translate.google.cn/translate_tts?ie=UTF-8&q=youngsters&tl=en&total=1&idx=0&textlen=10&tk=334448.208388&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=youngsters)
 
 
-#### Part **2** of **10** words
+#### Part **3** of **10** words
 Last modified time: `2019-12-1`
 + [`whether`](http://translate.google.cn/translate_tts?ie=UTF-8&q=whether&tl=en&total=1&idx=0&textlen=7&tk=529771.925983&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=whether) --- 我用过多次，有时候看见还是会忘记，是的，我是脑残
 + [`scenarios`](http://translate.google.cn/translate_tts?ie=UTF-8&q=scenarios&tl=en&total=1&idx=0&textlen=9&tk=524160.117748&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=scenarios)
@@ -41,7 +52,7 @@ Last modified time: `2019-12-1`
 + [`dirty`](http://translate.google.cn/translate_tts?ie=UTF-8&q=dirty&tl=en&total=1&idx=0&textlen=5&tk=437436.39112&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=dirty)
 
 
-#### Part **3** of **8** words
+#### Part **4** of **8** words
 Last modified time: `2019-11-29`
 + [`abandon`](http://translate.google.cn/translate_tts?ie=UTF-8&q=abandon&tl=en&total=1&idx=0&textlen=7&tk=769524.887168&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=abandon) --- [link](https://www.zhihu.com/question/266147523/answer/307704848)
 + [`cold`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cold&tl=en&total=1&idx=0&textlen=4&tk=267148.141304&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cold) --- [link](https://music.163.com/#/song?id=489199838&userid=517134882)
@@ -53,7 +64,7 @@ Last modified time: `2019-11-29`
 + [`credentials`](http://translate.google.cn/translate_tts?ie=UTF-8&q=credentials&tl=en&total=1&idx=0&textlen=11&tk=612988.1011208&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=credentials) --- 同上，记不住
 
 
-#### Part **4** of **46** words
+#### Part **5** of **46** words
 Last modified time: `2019-11-29`
 + [`rud`](http://translate.google.cn/translate_tts?ie=UTF-8&q=rud&tl=en&total=1&idx=0&textlen=3&tk=361225.243581&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=rud) --- 词根：原始，粗野
 + [`a rude shock`](http://translate.google.cn/translate_tts?ie=UTF-8&q=a%20rude%20shock&tl=en&total=1&idx=0&textlen=12&tk=989249.601141&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=a%20rude%20shock) --- 很突然的震惊

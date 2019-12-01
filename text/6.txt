@@ -1,0 +1,9 @@
+### 那些年我们混过的校园（2）
+` `2019-12-1`
+associate
+vice
+service
+wise
+otherwise
+likewise
+attach: https://developers.weixin.qq.com/miniprogram/dev/reference/api/Component.html

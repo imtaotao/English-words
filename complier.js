@@ -132,7 +132,7 @@ function genMarkdown (ast) {
   const day = ast.length
   const len = ast.reduce((total, val) => total + val.length, 0)
   const code = joinString(`## **${day}** days in total，**${len}** words`)
-  
+
   ast.forEach((part, i) => {
     if (part.length === 0) return
     code(`#### Part **${i + 1}** of **${part.length}** words`)
@@ -152,8 +152,11 @@ function genMarkdown (ast) {
 }
 
 function genSingleItem ({ word, link }, idx) {
-  if (!word) return
-  if (word.startsWith('#') || word.startsWith('`')) return word
+  if (!word || word.startsWith('#')) return
+  if ( word.startsWith('`')) {
+    return word.split(1)
+  }
+
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
   let baseContent = `+ [\`${word}\`](${audioLink}) --- [goog](${googleLink})`
