@@ -3,6 +3,7 @@ const path = require('path')
 const { exec } = require('child_process')
 
 const PROTOCOL = /\w+:\/\/?/
+const banner = '# 记单词一定要记词性\n'
 
 // 谷歌翻译的接口
 const createLink = text => `https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=${encodeURIComponent(text)}`
@@ -175,6 +176,10 @@ function joinString (title = '') {
 }
 
 async function genFile (code) {
+  if (banner) {
+    code = banner + code
+  }
+
   const transferfile = (from, to) => {
     return new Promise(resolve => {
       const readable = fs.createReadStream(from)

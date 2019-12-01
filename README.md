@@ -1,6 +1,7 @@
-## **4** days in total，**85** words
+# 记单词一定要记词性
+## **4** days in total，**86** words
 
-#### Part **1** of **21** words
+#### Part **1** of **22** words
 Last modified time: `2019-12-1`
 + [`bitten`](http://translate.google.cn/translate_tts?ie=UTF-8&q=bitten&tl=en&total=1&idx=0&textlen=6&tk=2943.409355&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=bitten)
 + [`abtain`](http://translate.google.cn/translate_tts?ie=UTF-8&q=abtain&tl=en&total=1&idx=0&textlen=6&tk=560853.965281&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=abtain) --- 性对于 `get` 正式一点
@@ -23,6 +24,7 @@ Last modified time: `2019-12-1`
 + [`shall`](http://translate.google.cn/translate_tts?ie=UTF-8&q=shall&tl=en&total=1&idx=0&textlen=5&tk=205068.333176&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=shall)
 + [`ought to (should)`](http://translate.google.cn/translate_tts?ie=UTF-8&q=ought%20to%20(should)&tl=en&total=1&idx=0&textlen=17&tk=323426.187158&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=ought%20to%20(should))
 + [`定语的解释`](http://translate.google.cn/translate_tts?ie=UTF-8&q=%E5%AE%9A%E8%AF%AD%E7%9A%84%E8%A7%A3%E9%87%8A&tl=en&total=1&idx=0&textlen=5&tk=120595.516967&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=%E5%AE%9A%E8%AF%AD%E7%9A%84%E8%A7%A3%E9%87%8A) --- [link](https://zhuanlan.zhihu.com/p/27459344)
++ [`youngsters`](http://translate.google.cn/translate_tts?ie=UTF-8&q=youngsters&tl=en&total=1&idx=0&textlen=10&tk=334448.208388&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=youngsters)
 
 
 #### Part **2** of **10** words
