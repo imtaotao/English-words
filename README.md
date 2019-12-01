@@ -1,17 +1,34 @@
 # 记单词一定要记词性
-## **5** days in total，**95** words
+## **5** days in total，**110** words
 
-#### Part **1** of **9** words
+#### Part **1** of **24** words
 Last modified time: `2019-12-1`
 ### 那些年我们混过的校园（2）
 `2019-12-1`
-+ [`associate`](http://translate.google.cn/translate_tts?ie=UTF-8&q=associate&tl=en&total=1&idx=0&textlen=9&tk=476003.96023&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=associate)
-+ [`vice`](http://translate.google.cn/translate_tts?ie=UTF-8&q=vice&tl=en&total=1&idx=0&textlen=4&tk=193646.311322&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=vice)
-+ [`service`](http://translate.google.cn/translate_tts?ie=UTF-8&q=service&tl=en&total=1&idx=0&textlen=7&tk=923251.532999&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=service)
-+ [`wise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=wise&tl=en&total=1&idx=0&textlen=4&tk=96914.478950&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=wise)
-+ [`otherwise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=otherwise&tl=en&total=1&idx=0&textlen=9&tk=886498.766614&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=otherwise)
-+ [`likewise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=likewise&tl=en&total=1&idx=0&textlen=8&tk=130782.510634&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=likewise)
-+ [`attach`](http://translate.google.cn/translate_tts?ie=UTF-8&q=attach&tl=en&total=1&idx=0&textlen=6&tk=723796.868128&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=attach) --- [link](https://developers.weixin.qq.com/miniprogram/dev/reference/api/Component.html)
++ [`(1)`](http://translate.google.cn/translate_tts?ie=UTF-8&q=(1)&tl=en&total=1&idx=0&textlen=3&tk=592194.998710&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=(1))
++ [`associate`](http://translate.google.cn/translate_tts?ie=UTF-8&q=associate&tl=en&total=1&idx=0&textlen=9&tk=476003.96023&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=associate) --- v./n.
++ [`vice`](http://translate.google.cn/translate_tts?ie=UTF-8&q=vice&tl=en&total=1&idx=0&textlen=4&tk=193646.311322&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=vice) --- n./a.
++ [`service`](http://translate.google.cn/translate_tts?ie=UTF-8&q=service&tl=en&total=1&idx=0&textlen=7&tk=923251.532999&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=service) --- vt./n.
++ [`wise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=wise&tl=en&total=1&idx=0&textlen=4&tk=96914.478950&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=wise) --- a.
++ [`otherwise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=otherwise&tl=en&total=1&idx=0&textlen=9&tk=886498.766614&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=otherwise) --- ad./a.
++ [`likewise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=likewise&tl=en&total=1&idx=0&textlen=8&tk=130782.510634&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=likewise) --- ad.
++ [`attach`](http://translate.google.cn/translate_tts?ie=UTF-8&q=attach&tl=en&total=1&idx=0&textlen=6&tk=723796.868128&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=attach) --- vt.
++ [`(2)`](http://translate.google.cn/translate_tts?ie=UTF-8&q=(2)&tl=en&total=1&idx=0&textlen=3&tk=588763.970671&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=(2))
++ [`ordinary`](http://translate.google.cn/translate_tts?ie=UTF-8&q=ordinary&tl=en&total=1&idx=0&textlen=8&tk=315221.195361&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=ordinary) --- a.
++ [`relate`](http://translate.google.cn/translate_tts?ie=UTF-8&q=relate&tl=en&total=1&idx=0&textlen=6&tk=388739.252663&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=relate) --- v./vi.
++ [`relative`](http://translate.google.cn/translate_tts?ie=UTF-8&q=relative&tl=en&total=1&idx=0&textlen=8&tk=499055.108827&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=relative) --- a./n.
++ [`relevent`](http://translate.google.cn/translate_tts?ie=UTF-8&q=relevent&tl=en&total=1&idx=0&textlen=8&tk=910532.774320&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=relevent) --- a.
++ [`connect`](http://translate.google.cn/translate_tts?ie=UTF-8&q=connect&tl=en&total=1&idx=0&textlen=7&tk=317780.191776&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=connect) --- v.
++ [`link`](http://translate.google.cn/translate_tts?ie=UTF-8&q=link&tl=en&total=1&idx=0&textlen=4&tk=431130.41070&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=link) --- n./v.
++ [`junction`](http://translate.google.cn/translate_tts?ie=UTF-8&q=junction&tl=en&total=1&idx=0&textlen=8&tk=668879.786619&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=junction) --- n.
++ [`(3)`](http://translate.google.cn/translate_tts?ie=UTF-8&q=(3)&tl=en&total=1&idx=0&textlen=3&tk=224465.350373&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=(3))
++ [`text`](http://translate.google.cn/translate_tts?ie=UTF-8&q=text&tl=en&total=1&idx=0&textlen=4&tk=24180.420352&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=text) --- vt./n.
++ [`textile`](http://translate.google.cn/translate_tts?ie=UTF-8&q=textile&tl=en&total=1&idx=0&textlen=7&tk=201797.335921&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=textile) --- n.
++ [`term`](http://translate.google.cn/translate_tts?ie=UTF-8&q=term&tl=en&total=1&idx=0&textlen=4&tk=757632.900084&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=term) --- n.
++ [`terminal`](http://translate.google.cn/translate_tts?ie=UTF-8&q=terminal&tl=en&total=1&idx=0&textlen=8&tk=920135.540211&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=terminal) --- n.
++ [`determine`](http://translate.google.cn/translate_tts?ie=UTF-8&q=determine&tl=en&total=1&idx=0&textlen=9&tk=195901.313673&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=determine) --- v.
++ [`club`](http://translate.google.cn/translate_tts?ie=UTF-8&q=club&tl=en&total=1&idx=0&textlen=4&tk=192687.312539&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=club) --- n.
++ [`hall`](http://translate.google.cn/translate_tts?ie=UTF-8&q=hall&tl=en&total=1&idx=0&textlen=4&tk=227970.347894&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=hall) --- n.
 
 
 #### Part **2** of **22** words

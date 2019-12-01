@@ -127,15 +127,29 @@ function convertTime (date) {
   return [year, month, day].join('-')
 }
 
+function getLen (arr) {
+  let i = 0
+  let len = arr.length
+  while (~--len) {
+    const line = arr[len].word
+    if (line) {
+      if (!line.startsWith('#') && !line.startsWith('`')) {
+        i++
+      }
+    }
+  }
+  return i
+}
+
 // 生成 markdown 文件
 function genMarkdown (ast) {
   const day = ast.length
-  const len = ast.reduce((total, val) => total + val.length, 0)
+  const len = ast.reduce((total, val) => total + getLen(val), 0)
   const code = joinString(`## **${day}** days in total，**${len}** words`)
 
   ast.forEach((part, i) => {
     if (part.length === 0) return
-    code(`#### Part **${i + 1}** of **${part.length}** words`)
+    code(`#### Part **${i + 1}** of **${getLen(part)}** words`)
     code(`Last modified time: \`${part.mtime}\``)
 
     part.forEach((wordInfo, i) => {

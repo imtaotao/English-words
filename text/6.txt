@@ -1,9 +1,28 @@
 ### 那些年我们混过的校园（2）
 ``2019-12-1`
-associate
-vice
-service
-wise
-otherwise
-likewise
-attach: https://developers.weixin.qq.com/miniprogram/dev/reference/api/Component.html
+(1)
+associate: v./n.
+vice: n./a.
+service: vt./n.
+wise: a.
+otherwise: ad./a.
+likewise: ad.
+attach: vt.
+
+(2)
+ordinary: a.
+relate: v./vi.
+relative: a./n.
+relevent: a.
+connect: v.
+link: n./v.
+junction: n.
+
+(3)
+text: vt./n.
+textile: n.
+term: n.
+terminal: n.
+determine: v.
+club: n.
+hall: n.
