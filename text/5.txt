@@ -13,3 +13,9 @@ tomb: https://www.bilibili.com/video/av36015107/?spm_id_from=trigger_reload
 hurt
 sealed: http://music.163.com/song?id=31301065&userid=517134882
 guilty
+weak: etag 就是有强比较，`weak` 比较
+goal
+hospital
+shall
+ought to (should)
+定语的解释: https://zhuanlan.zhihu.com/p/27459344
