@@ -152,9 +152,9 @@ function genMarkdown (ast) {
 }
 
 function genSingleItem ({ word, link }, idx) {
-  if (!word || word.startsWith('#')) return
+  if (!word || word.startsWith('#')) return word
   if ( word.startsWith('`')) {
-    return word.split(1)
+    return word.slice(1)
   }
 
   const googleLink = createLink(word)

@@ -3,6 +3,8 @@
 
 #### Part **1** of **9** words
 Last modified time: `2019-12-1`
+### 那些年我们混过的校园（2）
+`2019-12-1`
 + [`associate`](http://translate.google.cn/translate_tts?ie=UTF-8&q=associate&tl=en&total=1&idx=0&textlen=9&tk=476003.96023&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=associate)
 + [`vice`](http://translate.google.cn/translate_tts?ie=UTF-8&q=vice&tl=en&total=1&idx=0&textlen=4&tk=193646.311322&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=vice)
 + [`service`](http://translate.google.cn/translate_tts?ie=UTF-8&q=service&tl=en&total=1&idx=0&textlen=7&tk=923251.532999&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=service)
