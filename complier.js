@@ -152,6 +152,7 @@ function genMarkdown (ast) {
 
 function genSingleItem ({ word, link }, idx) {
   if (!word) return
+  if (word.startsWith('#') || word.startsWith('`')) return word
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
   let baseContent = `+ [\`${word}\`](${audioLink}) --- [goog](${googleLink})`

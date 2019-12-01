@@ -18,7 +18,7 @@ Last modified time: `2019-12-1`
 
 
 #### Part **2** of **10** words
-Last modified time: `2019-11-29`
+Last modified time: `2019-12-1`
 + [`whether`](http://translate.google.cn/translate_tts?ie=UTF-8&q=whether&tl=en&total=1&idx=0&textlen=7&tk=529771.925983&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=whether) --- 我用过多次，有时候看见还是会忘记，是的，我是脑残
 + [`scenarios`](http://translate.google.cn/translate_tts?ie=UTF-8&q=scenarios&tl=en&total=1&idx=0&textlen=9&tk=524160.117748&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=scenarios)
 + [`presentation`](http://translate.google.cn/translate_tts?ie=UTF-8&q=presentation&tl=en&total=1&idx=0&textlen=12&tk=396427.14591&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=presentation)
