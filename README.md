@@ -1,6 +1,6 @@
-## **4** days in total，**77** words
+## **4** days in total，**79** words
 
-#### Part **1** of **13** words
+#### Part **1** of **15** words
 Last modified time: `2019-12-1`
 + [`bitten`](http://translate.google.cn/translate_tts?ie=UTF-8&q=bitten&tl=en&total=1&idx=0&textlen=6&tk=2943.409355&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=bitten)
 + [`abtain`](http://translate.google.cn/translate_tts?ie=UTF-8&q=abtain&tl=en&total=1&idx=0&textlen=6&tk=560853.965281&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=abtain) --- 性对于 `get` 正式一点
@@ -15,6 +15,8 @@ Last modified time: `2019-12-1`
 + [`procrastination`](http://translate.google.cn/translate_tts?ie=UTF-8&q=procrastination&tl=en&total=1&idx=0&textlen=15&tk=725403.861679&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=procrastination)
 + [`tomb`](http://translate.google.cn/translate_tts?ie=UTF-8&q=tomb&tl=en&total=1&idx=0&textlen=4&tk=481570.93526&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=tomb) --- [link](https://www.bilibili.com/video/av36015107/?spm_id_from=trigger_reload)
 + [`hurt`](http://translate.google.cn/translate_tts?ie=UTF-8&q=hurt&tl=en&total=1&idx=0&textlen=4&tk=744439.880515&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=hurt)
++ [`sealed`](http://translate.google.cn/translate_tts?ie=UTF-8&q=sealed&tl=en&total=1&idx=0&textlen=6&tk=953767.571859&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=sealed) --- [link](http://music.163.com/song?id=31301065&userid=517134882)
++ [`guilty`](http://translate.google.cn/translate_tts?ie=UTF-8&q=guilty&tl=en&total=1&idx=0&textlen=6&tk=645924.1044304&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=guilty)
 
 
 #### Part **2** of **10** words
