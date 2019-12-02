@@ -3,6 +3,7 @@ const path = require('path')
 const { exec } = require('child_process')
 
 const PROTOCOL = /\w+:\/\/?/
+const banner = '# 记单词一定要记词性\n'
 
 // 谷歌翻译的接口
 const createLink = text => `https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=${encodeURIComponent(text)}`
@@ -126,15 +127,29 @@ function convertTime (date) {
   return [year, month, day].join('-')
 }
 
+function getLen (arr) {
+  let i = 0
+  let len = arr.length
+  while (~--len) {
+    const line = arr[len].word
+    if (line) {
+      if (!line.startsWith('#') && !line.startsWith('`')) {
+        i++
+      }
+    }
+  }
+  return i
+}
+
 // 生成 markdown 文件
 function genMarkdown (ast) {
   const day = ast.length
-  const len = ast.reduce((total, val) => total + val.length, 0)
+  const len = ast.reduce((total, val) => total + getLen(val), 0)
   const code = joinString(`## **${day}** days in total，**${len}** words`)
-  
+
   ast.forEach((part, i) => {
     if (part.length === 0) return
-    code(`#### Part **${i + 1}** of **${part.length}** words`)
+    code(`#### Part **${i + 1}** of **${getLen(part)}** words`)
     code(`Last modified time: \`${part.mtime}\``)
 
     part.forEach((wordInfo, i) => {
@@ -151,7 +166,11 @@ function genMarkdown (ast) {
 }
 
 function genSingleItem ({ word, link }, idx) {
-  if (!word) return
+  if (!word || word.startsWith('#')) return word
+  if ( word.startsWith('`')) {
+    return word.slice(1)
+  }
+
   const googleLink = createLink(word)
   const audioLink = createAudioLink(word)
   let baseContent = `+ [\`${word}\`](${audioLink}) --- [goog](${googleLink})`
@@ -174,6 +193,10 @@ function joinString (title = '') {
 }
 
 async function genFile (code) {
+  if (banner) {
+    code = banner + code
+  }
+
   const transferfile = (from, to) => {
     return new Promise(resolve => {
       const readable = fs.createReadStream(from)
