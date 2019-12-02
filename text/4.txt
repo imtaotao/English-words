@@ -1,0 +1,6 @@
+leak: 看到的最多的就是 `memory leak`
+given
+reproduce
+snapshots: 比如在模拟机上做一次快照
+comsumption
+collapses

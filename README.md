@@ -1,6 +1,16 @@
-## **3** days in total，**64** words
+## **4** days in total，**70** words
 
-#### Part **1** of **10** words
+#### Part **1** of **6** words
+Last modified time: `2019-11-29`
++ [`leak`](http://translate.google.cn/translate_tts?ie=UTF-8&q=leak&tl=en&total=1&idx=0&textlen=4&tk=480371.90119&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=leak) --- 看到的最多的就是 `memory leak`
++ [`given`](http://translate.google.cn/translate_tts?ie=UTF-8&q=given&tl=en&total=1&idx=0&textlen=5&tk=684061.803945&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=given)
++ [`reproduce`](http://translate.google.cn/translate_tts?ie=UTF-8&q=reproduce&tl=en&total=1&idx=0&textlen=9&tk=162960.280804&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=reproduce)
++ [`snapshots`](http://translate.google.cn/translate_tts?ie=UTF-8&q=snapshots&tl=en&total=1&idx=0&textlen=9&tk=479575.91427&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=snapshots) --- 比如在模拟机上做一次快照
++ [`comsumption`](http://translate.google.cn/translate_tts?ie=UTF-8&q=comsumption&tl=en&total=1&idx=0&textlen=11&tk=352490.218270&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=comsumption)
++ [`collapses`](http://translate.google.cn/translate_tts?ie=UTF-8&q=collapses&tl=en&total=1&idx=0&textlen=9&tk=276218.131726&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=collapses)
+
+
+#### Part **2** of **10** words
 Last modified time: `2019-11-28`
 + [`whether`](http://translate.google.cn/translate_tts?ie=UTF-8&q=whether&tl=en&total=1&idx=0&textlen=7&tk=529771.925983&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=whether) --- 我用过多次，有时候看见还是会忘记，是的，我是脑残
 + [`scenarios`](http://translate.google.cn/translate_tts?ie=UTF-8&q=scenarios&tl=en&total=1&idx=0&textlen=9&tk=524160.117748&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=scenarios)
@@ -14,7 +24,7 @@ Last modified time: `2019-11-28`
 + [`dirty`](http://translate.google.cn/translate_tts?ie=UTF-8&q=dirty&tl=en&total=1&idx=0&textlen=5&tk=437436.39112&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=dirty)
 
 
-#### Part **2** of **46** words
+#### Part **3** of **46** words
 Last modified time: `2019-11-28`
 + [`rud`](http://translate.google.cn/translate_tts?ie=UTF-8&q=rud&tl=en&total=1&idx=0&textlen=3&tk=361225.243581&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=rud) --- 词根：原始，粗野
 + [`a rude shock`](http://translate.google.cn/translate_tts?ie=UTF-8&q=a%20rude%20shock&tl=en&total=1&idx=0&textlen=12&tk=989249.601141&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=a%20rude%20shock) --- 很突然的震惊
@@ -64,7 +74,7 @@ Last modified time: `2019-11-28`
 + [`during`](http://translate.google.cn/translate_tts?ie=UTF-8&q=during&tl=en&total=1&idx=0&textlen=6&tk=414310.26130&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=during) --- 持续中，在 redux 的 dispatch 中有这个警告信息
 
 
-#### Part **3** of **8** words
+#### Part **4** of **8** words
 Last modified time: `2019-11-27`
 + [`abandon`](http://translate.google.cn/translate_tts?ie=UTF-8&q=abandon&tl=en&total=1&idx=0&textlen=7&tk=769524.887168&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=abandon) --- [link](https://www.zhihu.com/question/266147523/answer/307704848)
 + [`cold`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cold&tl=en&total=1&idx=0&textlen=4&tk=267148.141304&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cold) --- [link](https://music.163.com/#/song?id=489199838&userid=517134882)
