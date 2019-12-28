@@ -8,4 +8,5 @@ fueled
 dimensional
 Frisbee: http://music.163.com/song?id=418602744&userid=517134882
 cosmic: [all the stars will shine for you](https://www.npmjs.com/package/cosmic)
+Paradise: http://music.163.com/song?id=1319011647&userid=517134882
 常用625个单词: https://www.youtube.com/watch?v=zc3UQQVgQ1s&t=184s
