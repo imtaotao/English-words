@@ -1,7 +1,7 @@
 # 记单词一定要记词性
-## **11** days in total，**140** words
+## **11** days in total，**144** words
 
-#### Part **1** of **7** words
+#### Part **1** of **11** words
 Last modified time: `2019-12-28`
 + [`inspire`](http://translate.google.cn/translate_tts?ie=UTF-8&q=inspire&tl=en&total=1&idx=0&textlen=7&tk=114614.494530&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=inspire)
 + [`inspiration`](http://translate.google.cn/translate_tts?ie=UTF-8&q=inspiration&tl=en&total=1&idx=0&textlen=11&tk=18135.422563&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=inspiration)
@@ -9,6 +9,10 @@ Last modified time: `2019-12-28`
 + [`asynchronous`](http://translate.google.cn/translate_tts?ie=UTF-8&q=asynchronous&tl=en&total=1&idx=0&textlen=12&tk=886881.769045&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=asynchronous)
 + [`enhance`](http://translate.google.cn/translate_tts?ie=UTF-8&q=enhance&tl=en&total=1&idx=0&textlen=7&tk=750887.868691&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=enhance)
 + [`enhancement`](http://translate.google.cn/translate_tts?ie=UTF-8&q=enhancement&tl=en&total=1&idx=0&textlen=11&tk=412649.32669&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=enhancement)
++ [`fueled`](http://translate.google.cn/translate_tts?ie=UTF-8&q=fueled&tl=en&total=1&idx=0&textlen=6&tk=305205.171073&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=fueled)
++ [`dimensional`](http://translate.google.cn/translate_tts?ie=UTF-8&q=dimensional&tl=en&total=1&idx=0&textlen=11&tk=400245.12033&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=dimensional)
++ [`Frisbee`](http://translate.google.cn/translate_tts?ie=UTF-8&q=Frisbee&tl=en&total=1&idx=0&textlen=7&tk=449681.59621&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=Frisbee) --- [link](http://music.163.com/song?id=418602744&userid=517134882)
++ [`cosmic`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cosmic&tl=en&total=1&idx=0&textlen=6&tk=2270.408746&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cosmic) --- [link]([all the stars will shine for you](https://www.npmjs.com/package/cosmic))
 + [`常用625个单词`](http://translate.google.cn/translate_tts?ie=UTF-8&q=%E5%B8%B8%E7%94%A8625%E4%B8%AA%E5%8D%95%E8%AF%8D&tl=en&total=1&idx=0&textlen=8&tk=634898.1016934&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=%E5%B8%B8%E7%94%A8625%E4%B8%AA%E5%8D%95%E8%AF%8D) --- [link](https://www.youtube.com/watch?v=zc3UQQVgQ1s&t=184s)
 
 
