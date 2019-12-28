@@ -2,3 +2,5 @@ sprint
 rust
 envy
 trends: 新闻动态等，用这个，不要再用 dynamic 了，免得被笑话
+institution
+peculiar: 很容易被 strange 和 unusual 替代，在 whats up 这首歌里面用到了 
