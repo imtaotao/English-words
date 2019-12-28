@@ -1,3 +1,4 @@
 sprint
 rust
 envy
+trends: 新闻动态等，用这个，不要再用 dynamic 了，免得被笑话
