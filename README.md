@@ -1,5 +1,5 @@
 # 记单词一定要记词性
-## **12** days in total，**159** words
+## **12** days in total，**160** words
 
 #### Part **1** of **12** words
 Last modified time: `2019-12-30`
@@ -17,17 +17,18 @@ Last modified time: `2019-12-30`
 + [`dodge`](http://translate.google.cn/translate_tts?ie=UTF-8&q=dodge&tl=en&total=1&idx=0&textlen=5&tk=132120.274540&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=dodge)
 
 
-#### Part **2** of **5** words
+#### Part **2** of **6** words
 Last modified time: `2019-12-30`
 + [`invincible`](http://translate.google.cn/translate_tts?ie=UTF-8&q=invincible&tl=en&total=1&idx=0&textlen=10&tk=791864.663884&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=invincible)
 + [`mess`](http://translate.google.cn/translate_tts?ie=UTF-8&q=mess&tl=en&total=1&idx=0&textlen=4&tk=175250.301286&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=mess)
 + [`cheating`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cheating&tl=en&total=1&idx=0&textlen=8&tk=37873.436101&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cheating)
 + [`solo`](http://translate.google.cn/translate_tts?ie=UTF-8&q=solo&tl=en&total=1&idx=0&textlen=4&tk=39645.437929&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=solo)
 + [`beginner`](http://translate.google.cn/translate_tts?ie=UTF-8&q=beginner&tl=en&total=1&idx=0&textlen=8&tk=225728.345524&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=beginner) --- 初学者
++ [`drug`](http://translate.google.cn/translate_tts?ie=UTF-8&q=drug&tl=en&total=1&idx=0&textlen=4&tk=727799.863875&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=drug)
 
 
 #### Part **3** of **8** words
-Last modified time: `2019-12-28`
+Last modified time: `2019-12-30`
 + [`sprint`](http://translate.google.cn/translate_tts?ie=UTF-8&q=sprint&tl=en&total=1&idx=0&textlen=6&tk=969873.588005&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=sprint)
 + [`rust`](http://translate.google.cn/translate_tts?ie=UTF-8&q=rust&tl=en&total=1&idx=0&textlen=4&tk=12391.394259&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=rust)
 + [`envy`](http://translate.google.cn/translate_tts?ie=UTF-8&q=envy&tl=en&total=1&idx=0&textlen=4&tk=587615.967467&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=envy)
@@ -38,40 +39,22 @@ Last modified time: `2019-12-28`
 + [`revolution`](http://translate.google.cn/translate_tts?ie=UTF-8&q=revolution&tl=en&total=1&idx=0&textlen=10&tk=318934.190882&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=revolution)
 
 
-#### Part **4** of **14** words
-Last modified time: `2019-12-28`
-+ [`inspire`](http://translate.google.cn/translate_tts?ie=UTF-8&q=inspire&tl=en&total=1&idx=0&textlen=7&tk=114614.494530&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=inspire)
-+ [`inspiration`](http://translate.google.cn/translate_tts?ie=UTF-8&q=inspiration&tl=en&total=1&idx=0&textlen=11&tk=18135.422563&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=inspiration)
-+ [`ancestor`](http://translate.google.cn/translate_tts?ie=UTF-8&q=ancestor&tl=en&total=1&idx=0&textlen=8&tk=485040.86724&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=ancestor)
-+ [`asynchronous`](http://translate.google.cn/translate_tts?ie=UTF-8&q=asynchronous&tl=en&total=1&idx=0&textlen=12&tk=886881.769045&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=asynchronous)
-+ [`enhance`](http://translate.google.cn/translate_tts?ie=UTF-8&q=enhance&tl=en&total=1&idx=0&textlen=7&tk=750887.868691&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=enhance)
-+ [`enhancement`](http://translate.google.cn/translate_tts?ie=UTF-8&q=enhancement&tl=en&total=1&idx=0&textlen=11&tk=412649.32669&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=enhancement)
-+ [`fueled`](http://translate.google.cn/translate_tts?ie=UTF-8&q=fueled&tl=en&total=1&idx=0&textlen=6&tk=305205.171073&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=fueled)
-+ [`shoulder`](http://translate.google.cn/translate_tts?ie=UTF-8&q=shoulder&tl=en&total=1&idx=0&textlen=8&tk=937836.555800&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=shoulder)
-+ [`dimensional`](http://translate.google.cn/translate_tts?ie=UTF-8&q=dimensional&tl=en&total=1&idx=0&textlen=11&tk=400245.12033&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=dimensional)
-+ [`causing`](http://translate.google.cn/translate_tts?ie=UTF-8&q=causing&tl=en&total=1&idx=0&textlen=7&tk=718251.836063&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=causing)
-+ [`Frisbee`](http://translate.google.cn/translate_tts?ie=UTF-8&q=Frisbee&tl=en&total=1&idx=0&textlen=7&tk=449681.59621&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=Frisbee) --- [link](http://music.163.com/song?id=418602744&userid=517134882)
-+ [`cosmic`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cosmic&tl=en&total=1&idx=0&textlen=6&tk=2270.408746&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cosmic) --- [link]([all the stars will shine for you](https://www.npmjs.com/package/cosmic))
-+ [`Paradise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=Paradise&tl=en&total=1&idx=0&textlen=8&tk=314525.194793&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=Paradise) --- [link](http://music.163.com/song?id=1319011647&userid=517134882)
-+ [`常用625个单词`](http://translate.google.cn/translate_tts?ie=UTF-8&q=%E5%B8%B8%E7%94%A8625%E4%B8%AA%E5%8D%95%E8%AF%8D&tl=en&total=1&idx=0&textlen=8&tk=634898.1016934&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=%E5%B8%B8%E7%94%A8625%E4%B8%AA%E5%8D%95%E8%AF%8D) --- [link](https://www.youtube.com/watch?v=zc3UQQVgQ1s&t=184s)
-
-
-#### Part **5** of **2** words
-Last modified time: `2019-12-4`
+#### Part **4** of **2** words
+Last modified time: `2019-12-29`
 + [`evaluate`](http://translate.google.cn/translate_tts?ie=UTF-8&q=evaluate&tl=en&total=1&idx=0&textlen=8&tk=516940.120632&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=evaluate)
 + [`suites`](http://translate.google.cn/translate_tts?ie=UTF-8&q=suites&tl=en&total=1&idx=0&textlen=6&tk=335352.207244&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=suites)
 
 
-#### Part **6** of **4** words
-Last modified time: `2019-12-2`
+#### Part **5** of **4** words
+Last modified time: `2019-12-29`
 + [`mirrors`](http://translate.google.cn/translate_tts?ie=UTF-8&q=mirrors&tl=en&total=1&idx=0&textlen=7&tk=322762.186558&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=mirrors)
 + [`particularly`](http://translate.google.cn/translate_tts?ie=UTF-8&q=particularly&tl=en&total=1&idx=0&textlen=12&tk=280926.163114&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=particularly)
 + [`sphere`](http://translate.google.cn/translate_tts?ie=UTF-8&q=sphere&tl=en&total=1&idx=0&textlen=6&tk=299957.174017&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=sphere)
 + [`carbon`](http://translate.google.cn/translate_tts?ie=UTF-8&q=carbon&tl=en&total=1&idx=0&textlen=6&tk=469851.73519&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=carbon)
 
 
-#### Part **7** of **21** words
-Last modified time: `2019-12-2`
+#### Part **6** of **21** words
+Last modified time: `2019-12-29`
 ### 那些年我们混过的校园（2）
 `2019-12-1`
 (1)
@@ -100,7 +83,35 @@ Last modified time: `2019-12-2`
 + [`hall`](http://translate.google.cn/translate_tts?ie=UTF-8&q=hall&tl=en&total=1&idx=0&textlen=4&tk=227970.347894&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=hall) --- n.
 
 
-#### Part **8** of **23** words
+#### Part **7** of **6** words
+Last modified time: `2019-12-29`
++ [`leak`](http://translate.google.cn/translate_tts?ie=UTF-8&q=leak&tl=en&total=1&idx=0&textlen=4&tk=480371.90119&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=leak) --- 看到的最多的就是 `memory leak`
++ [`given`](http://translate.google.cn/translate_tts?ie=UTF-8&q=given&tl=en&total=1&idx=0&textlen=5&tk=684061.803945&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=given)
++ [`reproduce`](http://translate.google.cn/translate_tts?ie=UTF-8&q=reproduce&tl=en&total=1&idx=0&textlen=9&tk=162960.280804&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=reproduce)
++ [`snapshots`](http://translate.google.cn/translate_tts?ie=UTF-8&q=snapshots&tl=en&total=1&idx=0&textlen=9&tk=479575.91427&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=snapshots) --- 比如在模拟机上做一次快照
++ [`comsumption`](http://translate.google.cn/translate_tts?ie=UTF-8&q=comsumption&tl=en&total=1&idx=0&textlen=11&tk=352490.218270&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=comsumption)
++ [`collapses`](http://translate.google.cn/translate_tts?ie=UTF-8&q=collapses&tl=en&total=1&idx=0&textlen=9&tk=276218.131726&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=collapses)
+
+
+#### Part **8** of **14** words
+Last modified time: `2019-12-29`
++ [`inspire`](http://translate.google.cn/translate_tts?ie=UTF-8&q=inspire&tl=en&total=1&idx=0&textlen=7&tk=114614.494530&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=inspire)
++ [`inspiration`](http://translate.google.cn/translate_tts?ie=UTF-8&q=inspiration&tl=en&total=1&idx=0&textlen=11&tk=18135.422563&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=inspiration)
++ [`ancestor`](http://translate.google.cn/translate_tts?ie=UTF-8&q=ancestor&tl=en&total=1&idx=0&textlen=8&tk=485040.86724&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=ancestor)
++ [`asynchronous`](http://translate.google.cn/translate_tts?ie=UTF-8&q=asynchronous&tl=en&total=1&idx=0&textlen=12&tk=886881.769045&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=asynchronous)
++ [`enhance`](http://translate.google.cn/translate_tts?ie=UTF-8&q=enhance&tl=en&total=1&idx=0&textlen=7&tk=750887.868691&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=enhance)
++ [`enhancement`](http://translate.google.cn/translate_tts?ie=UTF-8&q=enhancement&tl=en&total=1&idx=0&textlen=11&tk=412649.32669&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=enhancement)
++ [`fueled`](http://translate.google.cn/translate_tts?ie=UTF-8&q=fueled&tl=en&total=1&idx=0&textlen=6&tk=305205.171073&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=fueled)
++ [`shoulder`](http://translate.google.cn/translate_tts?ie=UTF-8&q=shoulder&tl=en&total=1&idx=0&textlen=8&tk=937836.555800&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=shoulder)
++ [`dimensional`](http://translate.google.cn/translate_tts?ie=UTF-8&q=dimensional&tl=en&total=1&idx=0&textlen=11&tk=400245.12033&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=dimensional)
++ [`causing`](http://translate.google.cn/translate_tts?ie=UTF-8&q=causing&tl=en&total=1&idx=0&textlen=7&tk=718251.836063&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=causing)
++ [`Frisbee`](http://translate.google.cn/translate_tts?ie=UTF-8&q=Frisbee&tl=en&total=1&idx=0&textlen=7&tk=449681.59621&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=Frisbee) --- [link](http://music.163.com/song?id=418602744&userid=517134882)
++ [`cosmic`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cosmic&tl=en&total=1&idx=0&textlen=6&tk=2270.408746&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cosmic) --- [link]([all the stars will shine for you](https://www.npmjs.com/package/cosmic))
++ [`Paradise`](http://translate.google.cn/translate_tts?ie=UTF-8&q=Paradise&tl=en&total=1&idx=0&textlen=8&tk=314525.194793&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=Paradise) --- [link](http://music.163.com/song?id=1319011647&userid=517134882)
++ [`常用625个单词`](http://translate.google.cn/translate_tts?ie=UTF-8&q=%E5%B8%B8%E7%94%A8625%E4%B8%AA%E5%8D%95%E8%AF%8D&tl=en&total=1&idx=0&textlen=8&tk=634898.1016934&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=%E5%B8%B8%E7%94%A8625%E4%B8%AA%E5%8D%95%E8%AF%8D) --- [link](https://www.youtube.com/watch?v=zc3UQQVgQ1s&t=184s)
+
+
+#### Part **9** of **23** words
 Last modified time: `2019-12-2`
 + [`bitten`](http://translate.google.cn/translate_tts?ie=UTF-8&q=bitten&tl=en&total=1&idx=0&textlen=6&tk=2943.409355&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=bitten)
 + [`abtain`](http://translate.google.cn/translate_tts?ie=UTF-8&q=abtain&tl=en&total=1&idx=0&textlen=6&tk=560853.965281&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=abtain) --- 性对于 `get` 正式一点
@@ -127,8 +138,8 @@ Last modified time: `2019-12-2`
 + [`mood`](http://translate.google.cn/translate_tts?ie=UTF-8&q=mood&tl=en&total=1&idx=0&textlen=4&tk=413217.31317&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=mood)
 
 
-#### Part **9** of **10** words
-Last modified time: `2019-12-2`
+#### Part **10** of **10** words
+Last modified time: `2019-12-1`
 + [`whether`](http://translate.google.cn/translate_tts?ie=UTF-8&q=whether&tl=en&total=1&idx=0&textlen=7&tk=529771.925983&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=whether) --- 我用过多次，有时候看见还是会忘记，是的，我是脑残
 + [`scenarios`](http://translate.google.cn/translate_tts?ie=UTF-8&q=scenarios&tl=en&total=1&idx=0&textlen=9&tk=524160.117748&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=scenarios)
 + [`presentation`](http://translate.google.cn/translate_tts?ie=UTF-8&q=presentation&tl=en&total=1&idx=0&textlen=12&tk=396427.14591&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=presentation)
@@ -141,18 +152,8 @@ Last modified time: `2019-12-2`
 + [`dirty`](http://translate.google.cn/translate_tts?ie=UTF-8&q=dirty&tl=en&total=1&idx=0&textlen=5&tk=437436.39112&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=dirty)
 
 
-#### Part **10** of **6** words
-Last modified time: `2019-11-29`
-+ [`leak`](http://translate.google.cn/translate_tts?ie=UTF-8&q=leak&tl=en&total=1&idx=0&textlen=4&tk=480371.90119&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=leak) --- 看到的最多的就是 `memory leak`
-+ [`given`](http://translate.google.cn/translate_tts?ie=UTF-8&q=given&tl=en&total=1&idx=0&textlen=5&tk=684061.803945&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=given)
-+ [`reproduce`](http://translate.google.cn/translate_tts?ie=UTF-8&q=reproduce&tl=en&total=1&idx=0&textlen=9&tk=162960.280804&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=reproduce)
-+ [`snapshots`](http://translate.google.cn/translate_tts?ie=UTF-8&q=snapshots&tl=en&total=1&idx=0&textlen=9&tk=479575.91427&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=snapshots) --- 比如在模拟机上做一次快照
-+ [`comsumption`](http://translate.google.cn/translate_tts?ie=UTF-8&q=comsumption&tl=en&total=1&idx=0&textlen=11&tk=352490.218270&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=comsumption)
-+ [`collapses`](http://translate.google.cn/translate_tts?ie=UTF-8&q=collapses&tl=en&total=1&idx=0&textlen=9&tk=276218.131726&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=collapses)
-
-
 #### Part **11** of **46** words
-Last modified time: `2019-11-28`
+Last modified time: `2019-11-29`
 + [`rud`](http://translate.google.cn/translate_tts?ie=UTF-8&q=rud&tl=en&total=1&idx=0&textlen=3&tk=361225.243581&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=rud) --- 词根：原始，粗野
 + [`a rude shock`](http://translate.google.cn/translate_tts?ie=UTF-8&q=a%20rude%20shock&tl=en&total=1&idx=0&textlen=12&tk=989249.601141&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=a%20rude%20shock) --- 很突然的震惊
 + [`rude house`](http://translate.google.cn/translate_tts?ie=UTF-8&q=rude%20house&tl=en&total=1&idx=0&textlen=10&tk=635234.1017110&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=rude%20house) --- 不是粗鲁的房子，是简陋的房子（这种小单词的含义非常多）
@@ -202,7 +203,7 @@ Last modified time: `2019-11-28`
 
 
 #### Part **12** of **8** words
-Last modified time: `2019-11-27`
+Last modified time: `2019-11-29`
 + [`abandon`](http://translate.google.cn/translate_tts?ie=UTF-8&q=abandon&tl=en&total=1&idx=0&textlen=7&tk=769524.887168&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=abandon) --- [link](https://www.zhihu.com/question/266147523/answer/307704848)
 + [`cold`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cold&tl=en&total=1&idx=0&textlen=4&tk=267148.141304&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cold) --- [link](https://music.163.com/#/song?id=489199838&userid=517134882)
 + [`I dunno`](http://translate.google.cn/translate_tts?ie=UTF-8&q=I%20dunno&tl=en&total=1&idx=0&textlen=7&tk=337938.203878&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=I%20dunno) --- [link](http://www.sohu.com/a/279582670_298579)
