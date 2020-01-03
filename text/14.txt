@@ -1,0 +1,3 @@
+skeletons
+period
+perspective: 还有角度的意思，从某种角度
