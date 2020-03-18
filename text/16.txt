@@ -1,0 +1,6 @@
+slightly
+The one catch
+major
+majorization
+encapsulation
+aspect
