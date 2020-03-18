@@ -1,34 +1,37 @@
 # 记单词一定要记词性
-## **16** days in total，**174** words
+## **16** days in total，**177** words
 
-#### Part **1** of **4** words
+#### Part **1** of **7** words
 Last modified time: `2020-3-18`
 + [`slightly`](http://translate.google.cn/translate_tts?ie=UTF-8&q=slightly&tl=en&total=1&idx=0&textlen=8&tk=761981.889865&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=slightly)
 + [`The one catch`](http://translate.google.cn/translate_tts?ie=UTF-8&q=The%20one%20catch&tl=en&total=1&idx=0&textlen=13&tk=946180.541808&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=The%20one%20catch)
 + [`major`](http://translate.google.cn/translate_tts?ie=UTF-8&q=major&tl=en&total=1&idx=0&textlen=5&tk=663963.792047&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=major)
 + [`majorization`](http://translate.google.cn/translate_tts?ie=UTF-8&q=majorization&tl=en&total=1&idx=0&textlen=12&tk=454787.50423&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=majorization)
++ [`encapsulation`](http://translate.google.cn/translate_tts?ie=UTF-8&q=encapsulation&tl=en&total=1&idx=0&textlen=13&tk=627312.1025540&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=encapsulation)
++ [`aspect`](http://translate.google.cn/translate_tts?ie=UTF-8&q=aspect&tl=en&total=1&idx=0&textlen=6&tk=599729.987845&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=aspect)
++ [`clutter`](http://translate.google.cn/translate_tts?ie=UTF-8&q=clutter&tl=en&total=1&idx=0&textlen=7&tk=696557.824473&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=clutter)
 
 
-#### Part **2** of **1** words
-Last modified time: `2020-1-4`
-+ [`cooltinay`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cooltinay&tl=en&total=1&idx=0&textlen=9&tk=18677.425089&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cooltinay)
-
-
-#### Part **3** of **4** words
-Last modified time: `2020-1-3`
-+ [`skeletons`](http://translate.google.cn/translate_tts?ie=UTF-8&q=skeletons&tl=en&total=1&idx=0&textlen=9&tk=711010.847126&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=skeletons)
-+ [`period`](http://translate.google.cn/translate_tts?ie=UTF-8&q=period&tl=en&total=1&idx=0&textlen=6&tk=532547.922679&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=period)
-+ [`perspective`](http://translate.google.cn/translate_tts?ie=UTF-8&q=perspective&tl=en&total=1&idx=0&textlen=11&tk=957163.568991&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=perspective) --- 还有角度的意思，从某种角度
-+ [`critical`](http://translate.google.cn/translate_tts?ie=UTF-8&q=critical&tl=en&total=1&idx=0&textlen=8&tk=656007.800499&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=critical)
-
-
-#### Part **4** of **5** words
-Last modified time: `2019-12-31`
+#### Part **2** of **5** words
+Last modified time: `2020-3-18`
 + [`Landlord`](http://translate.google.cn/translate_tts?ie=UTF-8&q=Landlord&tl=en&total=1&idx=0&textlen=8&tk=560136.964732&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=Landlord)
 + [`strictly`](http://translate.google.cn/translate_tts?ie=UTF-8&q=strictly&tl=en&total=1&idx=0&textlen=8&tk=387969.253941&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=strictly)
 + [`condominium`](http://translate.google.cn/translate_tts?ie=UTF-8&q=condominium&tl=en&total=1&idx=0&textlen=11&tk=767339.885023&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=condominium)
 + [`manorialism`](http://translate.google.cn/translate_tts?ie=UTF-8&q=manorialism&tl=en&total=1&idx=0&textlen=11&tk=619126.1000962&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=manorialism)
 + [`concept`](http://translate.google.cn/translate_tts?ie=UTF-8&q=concept&tl=en&total=1&idx=0&textlen=7&tk=925155.534935&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=concept)
+
+
+#### Part **3** of **1** words
+Last modified time: `2020-1-4`
++ [`cooltinay`](http://translate.google.cn/translate_tts?ie=UTF-8&q=cooltinay&tl=en&total=1&idx=0&textlen=9&tk=18677.425089&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=cooltinay)
+
+
+#### Part **4** of **4** words
+Last modified time: `2020-1-3`
++ [`skeletons`](http://translate.google.cn/translate_tts?ie=UTF-8&q=skeletons&tl=en&total=1&idx=0&textlen=9&tk=711010.847126&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=skeletons)
++ [`period`](http://translate.google.cn/translate_tts?ie=UTF-8&q=period&tl=en&total=1&idx=0&textlen=6&tk=532547.922679&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=period)
++ [`perspective`](http://translate.google.cn/translate_tts?ie=UTF-8&q=perspective&tl=en&total=1&idx=0&textlen=11&tk=957163.568991&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=perspective) --- 还有角度的意思，从某种角度
++ [`critical`](http://translate.google.cn/translate_tts?ie=UTF-8&q=critical&tl=en&total=1&idx=0&textlen=8&tk=656007.800499&client=webapp&prev=output) --- [goog](https://translate.google.cn/#view=home&op=translate&sl=en&tl=zh-CN&text=critical)
 
 
 #### Part **5** of **12** words
