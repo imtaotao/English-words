@@ -8,3 +8,4 @@ characteristics: 近义词 feature，但是我感觉这个词更有逼格一点�
 flatten: flatten array
 disrespect: 反义词 respect
 exactly: https://www.e2say.com/articles/1932/
+doubt: 这个词的音我很难读出来
