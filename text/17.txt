@@ -13,3 +13,4 @@ doubt: 这个词的音我很难读出来
 suspect: https://www.douban.com/note/55825321/
 fame
 renown
+beam: turn off your fucking high beam
