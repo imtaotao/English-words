@@ -2,6 +2,7 @@ manual
 solutions
 pour
 virus
+compress: compress code
 evaluation: eval 这个方法名是这个词的简写
 spotlight: making love out of nathing 这首歌里面有这个词，林志炫唱的很好听
 characteristics: 近义词 feature，但是我感觉这个词更有逼格一点，哈哈哈
@@ -9,3 +10,6 @@ flatten: flatten array
 disrespect: 反义词 respect
 exactly: https://www.e2say.com/articles/1932/
 doubt: 这个词的音我很难读出来
+suspect: https://www.douban.com/note/55825321/
+fame
+renown
