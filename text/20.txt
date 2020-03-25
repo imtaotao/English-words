@@ -1,2 +1,3 @@
 proposal
 awesome
+synthetic: react syntheticEvent
