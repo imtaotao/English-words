@@ -17,3 +17,4 @@ confusion
 concatenation: [].concat 方法是这个词的简写
 redundant
 situation
+Thread
